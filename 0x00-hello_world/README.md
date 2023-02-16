@@ -6,4 +6,6 @@ A script that generates the assembly code of a C code and save the output in a .
 
 A script that compiles a C file and creates an executable 
 
-Writing a C program followed by a new line
+Writing a C program using puts
+
+A C program thats prints usinf printf 
