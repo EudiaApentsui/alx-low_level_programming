@@ -11,4 +11,5 @@ Writing a C program using puts
 A C program thats prints using printf
 
 A C program that prints the size of various types on the computer and run on
- 
+
+A script that generates assembly code and saves output in a .s file 
