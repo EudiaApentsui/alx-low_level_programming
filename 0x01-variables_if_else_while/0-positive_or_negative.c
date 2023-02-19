@@ -1,10 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
+#include <stdio.h>
 
 /**
  *main - A number stored in a variable is negative or positive
- *Return: 0
+ *Return: 0 (success)
  */
 int main(void)
 {
