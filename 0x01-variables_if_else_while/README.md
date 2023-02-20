@@ -15,3 +15,5 @@ Print all single digit numbers of base 10 starting from 0 without using a variab
 Prints the lowercase alphabet in reverse
 
 Print all the numbers of base 16 in lowercase
+
+Prints all possible combinations of single-digit numbers
