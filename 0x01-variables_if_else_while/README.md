@@ -4,3 +4,4 @@ Print the last digit of the number stored in a variable
 
 A program that prints the alphabet in lowercase, followed by a new line
 
+A program that prints the alphabet in lowercase, and then in uppercase, followed by a new line
