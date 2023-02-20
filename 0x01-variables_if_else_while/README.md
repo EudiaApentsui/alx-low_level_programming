@@ -8,4 +8,6 @@ A program that prints the alphabet in lowercase, and then in uppercase, followed
 
 A program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
 
-Print all the letters except q and e 
+Print all the letters except q and e
+
+Print all single digit numbers of base 10 starting from 0 without using a variable type char
