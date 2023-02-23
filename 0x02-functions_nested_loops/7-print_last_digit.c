@@ -3,6 +3,8 @@
 /**
  * print_last_digit - a function that prints the last digit of a number
  *
+ *@i: function parameter
+ *
  * Return: k
  */
 
